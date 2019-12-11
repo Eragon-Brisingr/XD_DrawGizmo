@@ -2,7 +2,7 @@
 
 #include "XD_DrawGizmo.h"
 #include "XD_DrawGizmoEdMode.h"
-#include "EditorModeManager.h"
+#include <EditorModeManager.h>
 
 #define LOCTEXT_NAMESPACE "FXD_DrawGizmoModule"
 
